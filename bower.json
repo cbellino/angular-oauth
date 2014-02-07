@@ -4,6 +4,7 @@
   "dependencies": {
     "angular": ">= 1.2.12"
   },
+  "main": "src/js/angularOauth.js",
   "homepage": "https://github.com/enginous/angular-oauth",
   "repository": {
     "type": "git",
