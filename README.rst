@@ -29,6 +29,15 @@ Features
   `example/demo.html <example/demo.html>`_ for an example.
 
 
+Installation
+============
+
+bower
+-----
+
+  ``bower install angular-oauth``
+
+
 Demo
 ====
 
@@ -73,7 +82,7 @@ Google authentication quickstart
    * **Authorized JavaScript Origins**: https://example.com
 
 
-3. Add ``googleOauth`` as a dependency to your app.
+3. Add ``googleOauth`` as a dependency to your app (don't forget to load angularOauth.js and googleOauth.js files).
 
 4. Configure the ``TokenProvider`` with the following minimal settings:
 
